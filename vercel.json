@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/email-citacion-compressed.jpg",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    }
+  ]
+}
